@@ -9,3 +9,4 @@ class Test_Notes():
         notespage.open_add_notes()
         notespage.fill_notes_info("new name", "new short body text")
         notespage.save_modal()
+        
